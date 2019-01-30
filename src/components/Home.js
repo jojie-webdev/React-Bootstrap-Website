@@ -7,7 +7,7 @@ const Home = () => {
     return (
         <Grid>
             <Jumbotron>
-                <h2>Welcome to CodeLife.io</h2>
+                <h2>Welcome to My React World</h2>
                 <p>This is how to build a website with React, React-Router & React-Bootstrap</p>
                 <Link to="/about">
                     <Button bsStyle="primary">About</Button>
